@@ -1,0 +1,13 @@
+{
+    "type": "project",
+    "name": "best-projet",
+    "description": "Workshop Git - Rebase me if you can",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0",
+        "symfony/framework-bundle": "^5.4"
+    }
+}
+
